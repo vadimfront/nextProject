@@ -3,7 +3,7 @@ body {
   padding: 0;
   margin: 0;
   color: var(--black);
-  background: #E5E5E5;
+  background: #e5e5e5;
   font-family: Inter, sans-serif;
 }
 
@@ -17,16 +17,16 @@ a {
 }
 
 :root {
-  --black: #3B434E;
-  --gray-dark: #6C7077;
-  --gray-light: #D2D2D2;
-  --gray: #A4A4A4;
-  --white: #FFF;
-  --primary: #7351F5;
-  --primary-hover: #3C229E;
-  --green: #007B48;
-  --green-light: #C8F8E4;
-  --red: #FC836D;
+  --black: #3b434e;
+  --gray-dark: #6c7077;
+  --gray-light: #d2d2d2;
+  --gray: #a4a4a4;
+  --white: #fff;
+  --primary: #7351f5;
+  --primary-hover: #3c229e;
+  --green: #007b48;
+  --green-light: #c8f8e4;
+  --red: #fc836d;
   --font-family: "Inter", sans-serif;
 }
 

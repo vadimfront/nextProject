@@ -1,0 +1,16 @@
+.up {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  background: #7653FC;
+  box-shadow: 0 4px 4px rgb(0 0 0 / 5%);
+  border-radius: 10px;
+  bottom: 30px;
+  right: 30px;
+  border: 0;
+  cursor: pointer;
+}
+
+.up:hover {
+  background-color: var(--primary-hover);
+}
